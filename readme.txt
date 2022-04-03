@@ -6,3 +6,9 @@ godotenv.Read(".env")
 
 yaml files should be stored in .env files
 
+run by using this command:
+
+go run yaml.go
+
+
+
